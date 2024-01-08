@@ -10,7 +10,7 @@
             "price": "$ 1.00",
             "phone": "(111)000-0000",
             "zip": "11111-1111",
-            "email": "email@gmail.com",
+            "email": "email@gmail.com"
         },
       {
             "text": "text_2",
@@ -22,7 +22,7 @@
             "price": "$ 2.00",
             "phone": "(222)000-0000",
             "zip": "10000-0000",
-            "email": "email@gmail.com",
+            "email": "email@gmail.com"
         },
       {
             "text": "text_3",
@@ -34,7 +34,7 @@
             "price": "$ 3.00",
             "phone": "(333)000-0000",
             "zip": "30000-0000",
-            "email": "email@gmail.com",
+            "email": "email@gmail.com"
         },
       {
             "text": "text_4",
@@ -46,7 +46,7 @@
             "price": "$ 4.00",
             "phone": "(444)000-0000",
             "zip": "40000-0000",
-            "email": "email@gmail.com",
+            "email": "email@gmail.com"
         },
       {
             "text": "text_5",
@@ -58,7 +58,7 @@
             "price": "$ 5.00",
             "phone": "(555)000-0000",
             "zip": "50000-0000",
-            "email": "email@gmail.com",
+            "email": "email@gmail.com"
         },
       {
             "text": "text_6",
@@ -70,7 +70,7 @@
             "price": "$ 6.00",
             "phone": "(666)000-0000",
             "zip": "60000-0000",
-            "email": "email@gmail.com",
+            "email": "email@gmail.com"
         }
     ]
 }
